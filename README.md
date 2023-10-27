@@ -1,2 +1,2 @@
-# RRT-
-RRT* with ROS and matlab
+# RRT*
+RRT* with  matlab
